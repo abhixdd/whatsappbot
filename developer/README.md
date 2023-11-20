@@ -34,7 +34,7 @@ Node Module Installation
 ```bash
 npm i
 
-//use this command in the code directory
+#use this command in the code directory
 ```
 
 ## Sending data to the API
@@ -44,10 +44,10 @@ To send the data(mobile number), send a request to the link below , ending with 
 http://webite.address:3000/api/receiveData?phoneNumber==numberhere
 ```
 ```bash
-//Example
+#Example
 
 http://webite.address:3000/api/receiveData?phoneNumber==917024567874
 
-//include country code in mobile number start
+#include country code in mobile number start
 ```
 Note : the web server will be running at port 3000.
