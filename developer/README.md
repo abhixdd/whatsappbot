@@ -46,7 +46,7 @@ http://webite.address:3000/api/receiveData?phoneNumber==numberhere
 ```bash
 #Example
 
-http://webite.address:3000/api/receiveData?phoneNumber==917024567874
+http://example.com:3000/api/receiveData?phoneNumber==917024567874
 
 #include country code in mobile number start
 ```
